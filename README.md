@@ -30,7 +30,7 @@ vendor/
 Via Composer
 
 ``` bash
-$ composer require kdaviesnz/copyscape
+$ composer require kdaviesnz/geo
 ```
 
 ## Usage
